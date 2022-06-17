@@ -1,15 +1,4 @@
-#
-# YOU ARE NOT PERMITTED TO MODIFY **ANY** CODE IN THIS ASSEMBLY FILE
-#
 
-# DID YOU READ THAT? I SAID:
-#
-#  YOU ARE ABSOTIVELY, POSOLUTELY NOT PERMITTED TO MODIFY ANY PART
-#  OF THIS FILE!
-#	
-		
-	# Best to keep these next few lines all together
-	#
 	# Settings for "Bitmap Display" given the following .eqv directives...
 	#
 	# Unit width in pixels: 32; unit height in pixels: 32
